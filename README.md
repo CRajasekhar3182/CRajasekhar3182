@@ -3,7 +3,7 @@
 - 🌱  Bachelor of Engineering in Electronics and Communication Engineering
        KSRM College of Engineering, Kadapa
 - 💞️  I’m looking to collaborate on ML projects.
-  📫 Reach me on LinkedIn:https://www.linkedin.com/in/chinnapothula-rajasekhar-naidu-/ 
+- 📫 Reach me on LinkedIn:https://www.linkedin.com/in/chinnapothula-rajasekhar-naidu-/ 
 
 
 
