@@ -1,7 +1,8 @@
-- 👋 Hi, I’m 
+- 👋 Hi, I’m Rajasekhar Naidu
 - 👀  I’m interested in Data Science and Software Development.
 - 🌱  Bachelor of Engineering in Electronics and Communication Engineering
-       KSRM College of Engineering, Kadap- 💞️  I’m looking to collaborate on ML projects.
+       KSRM College of Engineering, Kadap
+- 💞️  I’m looking to collaborate on ML projects.
 - 📫 Reach me on LinkedIn:https://www.linkedin.com/in/chinnapothula-rajasekhar-naidu-/ 
 
 
