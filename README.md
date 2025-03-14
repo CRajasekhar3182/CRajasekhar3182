@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CRajasekhar
+- 👋 Hi, I’m 
 - 👀  I’m interested in Data Science and Software Development.
 - 🌱  Bachelor of Engineering in Electronics and Communication Engineering
        KSRM College of Engineering, Kadap- 💞️  I’m looking to collaborate on ML projects.
